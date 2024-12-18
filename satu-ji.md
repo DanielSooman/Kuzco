@@ -17,3 +17,8 @@ kuzco worker start --worker stI6ciAOuWtKep8k_gysT --code aed8abba-5687-4b54-9097
 ```
 kuzco worker start --worker khEYwVlxk1UZdHnP3dv-z --code 62f49510-bb67-4ef3-8653-f465d1e0246f
 ```
+
+### Satu-3
+```
+kuzco worker start --worker lx6zro5_BkOMApF9H_nTZ --code 5d3d0d94-cd6f-4fe2-8d94-4048b74c3b78
+```
