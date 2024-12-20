@@ -21,3 +21,9 @@ kuzco worker start --worker khEYwVlxk1UZdHnP3dv-z --code 62f49510-bb67-4ef3-8653
 curl -fsSL https://kuzco.xyz/install.sh | sh
 kuzco worker start --worker lx6zro5_BkOMApF9H_nTZ --code 5d3d0d94-cd6f-4fe2-8d94-4048b74c3b78
 ```
+
+### Satu-4 x Brave
+```
+curl -fsSL https://kuzco.xyz/install.sh | sh
+kuzco worker start --worker lc7k3CXN7j7PGdkS0O61A --code f2aa4e50-65da-4cc4-be0e-7098268595b9
+```
