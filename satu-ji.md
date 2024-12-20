@@ -1,8 +1,3 @@
-# Install
-```
-curl -fsSL https://kuzco.xyz/install.sh | sh
-```
-
 ### Satu-0 x Via
 ```
 curl -fsSL https://kuzco.xyz/install.sh | sh
