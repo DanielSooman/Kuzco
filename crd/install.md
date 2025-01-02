@@ -40,10 +40,7 @@ Setting up Chrome Remote Desktop (CRD) via SSH on a Linux VPS can be straightfor
 1. **Run the provided command**:
    Replace the placeholder `--code` with your unique CRD token. Example:
    ```bash
-   DISPLAY= /opt/google/chrome-remote-desktop/start-host \
-     --code="4/0AanRRrtOOb9bL4p_4XSH1YXORaysgdbKnsiLs6sP-Ov9Fi1XyMUdSjdTSUi7KdEfBhHJ5w" \
-     --redirect-url="https://remotedesktop.google.com/_/oauthredirect" \
-     --name=$(hostname)
+ NEW WALA LE
    ```
 
 2. **Verify the setup**:
