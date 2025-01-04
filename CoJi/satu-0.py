@@ -6,5 +6,5 @@ subprocess.run("apt-get install -y curl libcurl4", shell=True, check=True)
 install_command = "curl -fsSL https://kuzco.xyz/install.sh | sh"
 subprocess.run(install_command, shell=True, check=True)
 
-worker_command = "kuzco worker start --worker lc7k3CXN7j7PGdkS0O61A --code f2aa4e50-65da-4cc4-be0e-7098268595b9"
+worker_command = "kuzco worker start --worker vBeNhW2MTYZwWbJRx94Ho --code 568dd654-cf57-4a92-a768-1ba4b892b9e7"
 subprocess.run(worker_command, shell=True, check=True)
