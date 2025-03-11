@@ -16,7 +16,6 @@ kuzco worker start --worker stI6ciAOuWtKep8k_gysT --code aed8abba-5687-4b54-9097
 
 ### Worker-2
 ```
-curl -fsSL https://kuzco.xyz/install.sh | sh
 kuzco worker start --worker khEYwVlxk1UZdHnP3dv-z --code 62f49510-bb67-4ef3-8653-f465d1e0246f
 ```
 
